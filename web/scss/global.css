@@ -82,7 +82,7 @@
 }
 .page-header .top-header .info-block .sign-in::before {
   content: "";
-  background: url("/web/images/mdi-lock.png") no-repeat;
+  background: url("../images/mdi-lock.png") no-repeat;
   display: inline-block;
   width: 12px;
   height: 15px;
@@ -109,7 +109,7 @@
 }
 .page-header .top-header .info-block .message::before {
   content: "";
-  background: url("/web/images/email.png") no-repeat;
+  background: url("../images/email.png") no-repeat;
   display: inline-block;
   width: 20px;
   height: 17px;
@@ -135,7 +135,7 @@
 }
 .page-header .top-header .info-block .phone-number::before {
   content: "";
-  background: url("/web/images/phone.png") no-repeat;
+  background: url("../images/phone.png") no-repeat;
   display: inline-block;
   width: 24px;
   height: 20px;
@@ -387,7 +387,7 @@
 }
 .page-header .header-links .header-top-tax-switch .shop-cart:before {
   content: " ";
-  background: url("/web/images/cart-outline.png");
+  background: url("../images/cart-outline.png");
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -436,7 +436,7 @@
 }
 .page-header .about-delivery .free-delivery::before {
   content: "";
-  background: url("/web/images/check-circle.png") no-repeat;
+  background: url("../images/check-circle.png") no-repeat;
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -464,7 +464,7 @@
 }
 .page-header .about-delivery .fast-delivery::before {
   content: "";
-  background: url("/web/images/check-circle.png") no-repeat;
+  background: url("../images/check-circle.png") no-repeat;
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -488,7 +488,7 @@
 }
 .page-header .about-delivery .why-me::before {
   content: "";
-  background: url("/web/images/thuiswinkel_zakelijk.png") no-repeat;
+  background: url("../images/thuiswinkel_zakelijk.png") no-repeat;
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -518,7 +518,7 @@
 }
 .page-header .breadcrumbs .breadcrumbs-links::before {
   content: "";
-  background: url("/web/images/home.png") no-repeat;
+  background: url("../images/home.png") no-repeat;
   display: inline-block;
   width: 10px;
   height: 10px;
@@ -587,7 +587,7 @@
 }
 .product-page .product-image .shipping-information::before {
   content: "";
-  background: url("/web/images/clock-outline.png") no-repeat;
+  background: url("../images/clock-outline.png") no-repeat;
   display: inline-block;
   width: 12px;
   height: 12px;
@@ -596,7 +596,7 @@
 }
 .product-page .product-image .shipping-information::after {
   content: "";
-  background: url("/web/images/information-outline.png") no-repeat;
+  background: url("../images/information-outline.png") no-repeat;
   display: inline-block;
   width: 12px;
   height: 12px;
@@ -1001,7 +1001,7 @@
 }
 .product-page .prices-product .color-box .bottom-color .add-to-cart .add-to-cart-button .add-to-button-text::before {
   content: "";
-  background: url("/web/images/cart-outline.png") no-repeat;
+  background: url("../images/cart-outline.png") no-repeat;
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -1130,7 +1130,7 @@
 }
 .description-product .product-description-content .our-partners .your-partner .u-partner::before {
   content: "";
-  background: url("/web/images/mdi-check.png") no-repeat;
+  background: url("../images/mdi-check.png") no-repeat;
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -1208,7 +1208,7 @@
 }
 .description-product .product-description-content .our-partners .about-partner .phone-partner::before {
   content: "";
-  background: url("/web/images/phone.png") no-repeat;
+  background: url("../images/phone.png") no-repeat;
   display: inline-block;
   width: 22px;
   height: 19px;

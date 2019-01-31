@@ -64,7 +64,7 @@
         }*/
         &::before {
           content: "";
-          background: url("/web/images/mdi-lock.png") no-repeat;
+          background: url("../images/mdi-lock.png") no-repeat;
           display:inline-block;
           width: 12px;
           height: 15px;
@@ -87,7 +87,7 @@
         }
         &::before {
           content: "";
-          background: url("/web/images/email.png") no-repeat;
+          background: url("../images/email.png") no-repeat;
           display:inline-block;
           width:20px;
           height:17px;
@@ -109,7 +109,7 @@
         }*/
         &::before {
           content: "";
-          background: url("/web/images/phone.png") no-repeat;
+          background: url("../images/phone.png") no-repeat;
           display:inline-block;
           width: 24px;
           height: 20px;
@@ -327,7 +327,7 @@
         vertical-align: middle;
         &:before {
           content: " ";
-          background: url("/web/images/cart-outline.png");
+          background: url("../images/cart-outline.png");
           display: inline-block;
           width: 20px;
           height: 20px;
@@ -371,7 +371,7 @@
       }
       &::before {
         content: "";
-        background: url("/web/images/check-circle.png") no-repeat;
+        background: url("../images/check-circle.png") no-repeat;
         display: inline-block;
         width: 20px;
         height: 20px;
@@ -395,7 +395,7 @@
       }
       &::before {
         content: "";
-        background: url("/web/images/check-circle.png") no-repeat;
+        background: url("../images/check-circle.png") no-repeat;
         display: inline-block;
         width: 20px;
         height: 20px;
@@ -417,7 +417,7 @@
       text-align: right;
       &::before {
         content: "";
-        background: url("/web/images/thuiswinkel_zakelijk.png") no-repeat;
+        background: url("../images/thuiswinkel_zakelijk.png") no-repeat;
         display: inline-block;
         width: 20px;
         height: 20px;
@@ -443,7 +443,7 @@
       padding: 2px 0 4px;
       &::before {
         content: "";
-        background: url("/web/images/home.png") no-repeat;
+        background: url("../images/home.png") no-repeat;
         display: inline-block;
         width: 10px;
         height: 10px;
@@ -504,7 +504,7 @@
       }
       &::before {
         content: "";
-        background: url("/web/images/clock-outline.png") no-repeat;
+        background: url("../images/clock-outline.png") no-repeat;
         display: inline-block;
         width: 12px;
         height: 12px;
@@ -513,7 +513,7 @@
       }
       &::after {
         content: "";
-        background: url("/web/images/information-outline.png") no-repeat;
+        background: url("../images/information-outline.png") no-repeat;
         display: inline-block;
         width: 12px;
         height: 12px;
@@ -862,7 +862,7 @@
               }
               &::before {
                 content: "";
-                background: url("/web/images/cart-outline.png") no-repeat;
+                background: url("../images/cart-outline.png") no-repeat;
                 display: inline-block;
                 width: 20px;
                 height: 20px;
@@ -970,7 +970,7 @@
           margin: 20px 0;
           &::before {
             content: "";
-            background: url("/web/images/mdi-check.png") no-repeat;
+            background: url("../images/mdi-check.png") no-repeat;
             display: inline-block;
             width: 20px;
             height: 20px;
@@ -1034,7 +1034,7 @@
           }
           &::before {
             content: "";
-            background: url("/web/images/phone.png") no-repeat;
+            background: url("../images/phone.png") no-repeat;
             display:inline-block;
             width: 22px;
             height: 19px;
